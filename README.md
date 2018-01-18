@@ -1,0 +1,2 @@
+# Leenankurssi
+Yksilö projekti
